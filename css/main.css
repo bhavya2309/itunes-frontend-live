@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.flexo12 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.justify-content {
+  justify-content: center;
+}
+.align-items {
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  background-color: greenyellow;
+  width: 100%;
+}
+#myText {
+  margin: 30px;
+}
+button {
+  padding: 4px 8px;
+  border-radius: 15px;
+}
